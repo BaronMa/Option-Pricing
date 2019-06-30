@@ -1,2 +1,2 @@
-# Option-Pricing
-The repository is created for MEng Project & Summer Research. We try to use deep learning to price American type options.
+# Copyright
+f.m, g.m, get_option_value.m, psor.m were provided by my instructor.
